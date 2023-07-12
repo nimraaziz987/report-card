@@ -1,0 +1,22 @@
+a{
+    
+    color: blue;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+a:hover{
+    color: rgb(84, 221, 214);
+    
+}
+body{
+    font-size: 2rem;
+    font-weight: 250px;
+    text-align: center;
+    background-color: darkgray;
+    word-spacing: 5px;
+    
+}
+a:active{
+    color: brown;
+}
